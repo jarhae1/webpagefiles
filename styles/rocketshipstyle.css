@@ -1,0 +1,20 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  width: 50%;
+  max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto;
+}
+
+.blastoff {
+  position:relative;
+  right:60%;
+  left: 40%;
+}
+
+.output{
+  text-align: center;
+}
